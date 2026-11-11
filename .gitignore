@@ -1,0 +1,7 @@
+images/
+_ref/
+.vercel-tmp/
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini

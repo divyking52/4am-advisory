@@ -1,0 +1,5 @@
+images/
+_ref/
+.git/
+.gitignore
+.vercel/
